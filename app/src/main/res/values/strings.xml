@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScreenOn</string>
+    <string name="btn_stop">Stop Service</string>
+    <string name="txt_label">The screen will remain on (alive),\nif phone connected to the computer</string>
+    <string name="toast_start">The screen will remain on!</string>
+    <string name="toast_stop">The screen set back to normal</string>
+    <string name="toast_notstop">No service is running!</string>
+</resources>
